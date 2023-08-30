@@ -5,8 +5,8 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 ## 📚 Table of Contents
 - [Microsoft Excel](#microsoft-excel)
 - [Python](#python)
-- [Spss](#spss)
 - [SQL](#sql)
+- [Spss](#spss)
 - [Tableau](#tableau)
   
 ***
