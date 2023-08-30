@@ -41,7 +41,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 | Project Link | Area of Analysis | Project Description | 
 |---|---|---|
-| 💻 [Projects are  underway] | Soon | Big query & data modeling projects will soon be uploaded |
+| 💻 [Intro to SQL](https://www.kaggle.com/learn/intro-to-sql) | SQL queries for Complex Big Query datasets | Learnt creating SQL with databases, using Google BigQuery to support real-world data problems |
 
 ***
 
