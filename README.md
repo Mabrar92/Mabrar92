@@ -13,8 +13,8 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 # Microsoft Excel
 | Project Link | Completion Date | Tools | Project Description | 
 |---|---|---|---|
-| 🏠 [House Prices in California](https://github.com/Mabrar92/Data-Analysis-Projects-Portfolio/blob/16eb3fc34e7cc9c92ce908e9aa82ca51456c7def/Data%20Analysis%20of%20Home%20Prices%20in%20Cali%201990.xlsx) | May 2023 | Microsoft Excel | I performed Data Analysis of House Prices in California from 1990 to find correlation of prices with various variables along with dashboard and presented key insights. This public dataset is taken from Kaggle.|
-| 📈 [Microsoft Financial Performance Dashboard](https://github.com/Mabrar92/Data-Analysis-Projects-Portfolio/blob/16eb3fc34e7cc9c92ce908e9aa82ca51456c7def/MSFT%20Financial%20Performance.xlsx) | May 2023 | Microsoft Excel, PowerQuery |Scrapped data from Yahoo Finance using power query in Excel and created a minimalist dashboard of Microsoft financial performance from 2019 - 2022. Insights such as Total Return over 4 years, Monthly Average Return over 4 years, etc. are presented in the dashboard.|
+| 🏠 [House Prices in California](https://github.com/Mabrar92/Data-Analysis-Projects-Portfolio) | May 2023 | Microsoft Excel | I performed Data Analysis of House Prices in California from 1990 to find a correlation of prices with various variables along with a dashboard and presented key insights. This public dataset is taken from Kaggle.|
+| 📈 [Microsoft Financial Performance Dashboard](https://github.com/Mabrar92/Data-Analysis-Projects-Portfolio) | May 2023 | Microsoft Excel, PowerQuery| Scrapped data from Yahoo Finance using power query in Excel and created a minimalist dashboard of Microsoft financial performance from 2019 - 2022. Insights such as Total Return over 4 years, Monthly Average Return over 4 years, etc. are presented in the dashboard.|
 
 ***
 
