@@ -13,11 +13,8 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 # Microsoft Excel
 | Project Link | Completion Date | Tools | Project Description | 
 |---|---|---|---|
-
 | 📈 [Datacamp's Data Analysis in Excel](https://github.com/Mabrar92/Data-Analysis-in-Excel.git) | Sep 2023 | Microsoft Excel | Acquired valuable techniques such as EDA with pivot tables, Advanced Logical functions, What if Analysis and Forecasting to make informed decisions and uncover hidden insights within data. |
-
 | 🏠 [House Prices in California](https://github.com/Mabrar92/Data-Analysis-Projects-Portfolio) | May 2023 | Microsoft Excel | I performed Data Analysis of House Prices in California from 1990 to find a correlation of prices with various variables along with a dashboard and presented key insights. This public dataset is taken from Kaggle.|
-
 | 📈 [Microsoft Financial Performance Dashboard](https://github.com/Mabrar92/Data-Analysis-Projects-Portfolio) | May 2023 | Microsoft Excel, PowerQuery| Scrapped data from Yahoo Finance using power query in Excel and created a minimalist dashboard of Microsoft financial performance from 2019 - 2022. Insights such as Total Return over 4 years, Monthly Average Return over 4 years, etc. are presented in the dashboard.|
 
 
