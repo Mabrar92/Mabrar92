@@ -19,7 +19,7 @@ Welcome to my data portfolio! Here, I document a summary of my data analysis pro
 
 | Project Link | Completion Date | Tools | Project Description | 
 |---|---|---|---|
-| 🤑 [Data Analysis of Customer Buying Habits at CardioGood Fitness](https://github.com/Mabrar92/Customers_Profile_Analysis) | Sep 2023 | SPSS | As a marketing enthusiast, I explored customer data of CardioGood Fitness Company and discovered trends in the buying behavior and characteristics of customers. I then presented my actional insights and recommendations to the marketing team which can lead to business success.|
+| 🤑 [Data Analysis of Customer Buying Habits at CardioGood Fitness](https://github.com/Mabrar92/Customers_Profile_Analysis#readme) | Sep 2023 | SPSS | As a marketing enthusiast, I explored customer data of CardioGood Fitness Company and discovered trends in the buying behavior and characteristics of customers. I then presented my actional insights and recommendations to the marketing team which can lead to business success.|
 
 
 ***
