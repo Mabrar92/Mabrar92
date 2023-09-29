@@ -67,7 +67,7 @@ Welcome to my data portfolio! Here, I document a summary of my data analysis pro
 
 | Project Link | Project Description | Dashboard Link |
 |---|---|---|
-| Soon | Projects are underway |  |
+|[Video Game Sales Analysis: 1994-2010](https://public.tableau.com/app/profile/muhammad.abrar5972/viz/FirstDashboard__16959374896530/CompetitorAnlaysis1994-2010) |I performed thorough competitor analysis on video game sales data from 1994 to 2010. The resulting dashboard provides insights into Playstation,Xbox and Nintendo sales trends, platform popularity, and top games/genres.|[Tableau Dashboard](https://public.tableau.com/app/profile/muhammad.abrar5972/viz/FirstDashboard__16959374896530/CompetitorAnlaysis1994-2010)|
 
 ***
 ## Acknowledgment
