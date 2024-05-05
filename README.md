@@ -68,6 +68,8 @@ Welcome to my data portfolio! Here, I document a summary of my data analysis pro
 | Project Link | Project Description | Dashboard Link |
 |---|---|---|
 |[Video Game Sales Analysis: 1994-2010](https://public.tableau.com/app/profile/muhammad.abrar5972/viz/FirstDashboard__16959374896530/CompetitorAnlaysis1994-2010) |I performed thorough competitor analysis on video game sales data from 1994 to 2010. The resulting dashboard provides insights into Playstation,Xbox and Nintendo sales trends, platform popularity, and top games/genres.|[Tableau Dashboard](https://public.tableau.com/app/profile/muhammad.abrar5972/viz/FirstDashboard__16959374896530/CompetitorAnlaysis1994-2010)|
+|[The Health and Lifestyle Dashboard](https://public.tableau.com/app/profile/muhammad.abrar5972/viz/TheHealthandLifestyleDashboard/Dashboard1) |This dashboard presents visualization of health and Lifestyle data. you can filter the charts based on Sleeping disorders. Thus providing valuable insights on how the behavior of individuals from different occupations is affected by sleeping disorders such as Sleep Apnea and Insomnia.|[Tableau Dashboard](https://public.tableau.com/app/profile/muhammad.abrar5972/viz/TheHealthandLifestyleDashboard/Dashboard1)|
+
 
 ***
 ## Acknowledgment
