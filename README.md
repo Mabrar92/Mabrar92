@@ -19,8 +19,8 @@ Welcome to my data portfolio! Here, I document a summary of my data analysis pro
 
 | Project Link | Completion Date | Tools | Project Description | 
 |---|---|---|---|
+| ✈️ [Data Analysis of British Airways Customers Data](https://github.com/Mabrar92/Data-Analysis-of-British-Airways#readme) | May 2024 | Python | This analysis aims to understand the factors influencing customer satisfaction at British Airways, including popular routes, holiday seasons, and overall customer experiences.|
 | 🤑 [Data Analysis of Customer Buying Habits at CardioGood Fitness](https://github.com/Mabrar92/Customers_Profile_Analysis#readme) | Sep 2023 | SPSS | As a marketing enthusiast, I explored customer data of CardioGood Fitness Company and discovered trends in the buying behavior and characteristics of customers. I then presented my actionable insights and recommendations to the marketing team which can lead to business success.|
-
 
 ***
 
@@ -40,6 +40,7 @@ Welcome to my data portfolio! Here, I document a summary of my data analysis pro
 
 | Project Link | Area | Project Description | Libraries |    
 |---|---|---|---|
+| ✈️ [Data Analysis of British Airways Customers Data](https://github.com/Mabrar92/Data-Analysis-of-British-Airways#readme) | EDA & Hypothesis Testing | This analysis aims to understand the factors influencing customer satisfaction at British Airways, including popular routes, holiday seasons, and overall customer experiences.|Pandas, Matplotlib, Seaborn|
 | 👩🏻‍💻 [Harvard's CS50p - Ongoing](https://github.com/Mabrar92/Python-CS50-Solutions) | Programming | This repo contains the solution to the problem sets in [Harvardx CS50P Introduction to Programming with Python](https://www.edx.org/course/cs50s-introduction-to-programming-with-python). | - | 
 | 🧹 [Data Cleaning in Python](https://github.com/Mabrar92/data-cleaning-in-python-essential-training-3086536) | Data Preprocessing & Data Cleaning | As a part of LinkedIn Course of data cleaning in Python essential training, I explored various methods and problems related to data cleaning such as data validation, missing values, duplicates etc. | Pandas |   
 | 🏨 [Hotel Booking Cancelation Analysis ](https://github.com/Mabrar92/Data-Analysis-Projects-Portfolio/blob/main/Hotel%20Cancellation%20-%20Data%20Analysis%20-%20End%20to%20End%20Project.ipynb) | Data Wrangling & EDA | Analysis of Hotel Booking data to explore the major reason behind the increasing trend in booking cancelation across its two franchises. | Pandas, Matplotlib |   
