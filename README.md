@@ -5,6 +5,7 @@ Welcome to my data portfolio! Here, I document a summary of my data projects.
 
 
 ## 📚 Table of Contents
+- [Machine Learning Projects](#machine-learning-projects)
 - [Complete Data Analysis Projects](#complete-data-analysis-projects)
 - [Microsoft Excel](#microsoft-excel)
 - [Python](#python)
@@ -13,6 +14,13 @@ Welcome to my data portfolio! Here, I document a summary of my data projects.
 - [Tableau](#tableau)
 
 
+***
+# Machine Learning Projects
+
+| Project Link | Completion Date | Tools | Project Description | 
+|---|---|---|---|
+| ✈️ [Supervised Machine Learning for Predicting Sustainable Energy Needs](https://github.com/Mabrar92/Supervised-ML-Based-Energy-Consumption-Predictions) | Sep 2023 | Python, Sci-kit, ARIMA | Using supervised machine learning models in Python, I predicted future energy consumption and forecasted carbon emission levels for 176 countries based on the Global Data on Sustainable Energy. This project achieved accurate five-year forecasts, supporting the United Nations' Sustainable Development Goal 7 by providing insights into global energy needs and environmental impact.|
+***
 
 ***
 # Complete Data Analysis Projects
