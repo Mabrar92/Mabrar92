@@ -68,7 +68,7 @@ Welcome to my data portfolio! Here, I document a summary of my data projects.
 # Spss
 | Project Link | Completion Date | Project Description | 
 |---|---|---|
-|🤑 [Data Analysis of Customer Buying Habits at CardioGood Fitness](https://github.com/Mabrar92/Customers_Profile_Analysis#readme)|Sep 2023| As a marketing enthusiast, I explored customer data of CardioGood Fitness Company and discovered trends in the buying behavior and characteristics of customers. I then presented my actional insights and recommendations to the marketing team which can lead to business success.|
+|🤑 [Data Analysis of Customer Buying Habits at CardioGood Fitness](https://github.com/Mabrar92/Customers_Profile_Analysis#readme)|Sep 2023| As a marketing enthusiast, I explored customer data of CardioGood Fitness Company and discovered trends in the buying behaviour and characteristics of customers. I then presented my actional insights and recommendations to the marketing team which can lead to business success.|
 | 💻 [Project] | Soon | Projects are underway |
 
 ***
@@ -77,10 +77,10 @@ Welcome to my data portfolio! Here, I document a summary of my data projects.
 
 | Project Link | Project Description | Dashboard Link |
 |---|---|---|
-|[Human Resource Dashboard]|This HR Dashboard provides in-depth insights into key human resource metrics, including employee demographics, salary analysis, and performance evaluations.|[Tableau Dashboard](https://public.tableau.com/app/profile/mabrar92/viz/HumanResourceDashboard_17268433594040/HRSummary)|
-|[Sales & Customer Dashboards]|A comprehensive Tableau dashboard providing detailed insights into sales performance and customer analysis.|[Tableau Dashboard](https://public.tableau.com/app/profile/mabrar92/viz/SalesCustomerDashboards_17279633259680/SalesDashboard)|
-|[Video Game Sales Analysis: 1994-2010](https://public.tableau.com/app/profile/muhammad.abrar5972/viz/FirstDashboard__16959374896530/CompetitorAnlaysis1994-2010) |I performed thorough competitor analysis on video game sales data from 1994 to 2010. The resulting dashboard provides insights into Playstation, Xbox and Nintendo sales trends, platform popularity, and top games/genres.|[Tableau Dashboard](https://public.tableau.com/app/profile/muhammad.abrar5972/viz/FirstDashboard__16959374896530/CompetitorAnlaysis1994-2010)|
-|[The Health and Lifestyle Dashboard](https://public.tableau.com/app/profile/muhammad.abrar5972/viz/TheHealthandLifestyleDashboard/Dashboard1) |This dashboard presents visualization of health and Lifestyle data. you can filter the charts based on Sleeping disorders. Thus providing valuable insights on how the behavior of individuals from different occupations is affected by sleeping disorders such as Sleep Apnea and Insomnia.|[Tableau Dashboard](https://public.tableau.com/app/profile/muhammad.abrar5972/viz/TheHealthandLifestyleDashboard/Dashboard1)|
+|Human Resource Dashboard|This HR Dashboard provides in-depth insights into key human resource metrics, including employee demographics, salary analysis, and performance evaluations.|[Tableau Dashboard](https://public.tableau.com/app/profile/mabrar92/viz/HumanResourceDashboard_17268433594040/HRSummary)|
+|Sales & Customer Dashboards|A comprehensive Tableau dashboard providing detailed insights into sales performance and customer analysis.|[Tableau Dashboard](https://public.tableau.com/app/profile/mabrar92/viz/SalesCustomerDashboards_17279633259680/SalesDashboard)|
+|Video Game Sales Analysis: 1994-2010 |I performed thorough competitor analysis on video game sales data from 1994 to 2010. The resulting dashboard provides insights into Playstation, Xbox and Nintendo sales trends, platform popularity, and top games/genres.|[Tableau Dashboard](https://public.tableau.com/app/profile/muhammad.abrar5972/viz/FirstDashboard__16959374896530/CompetitorAnlaysis1994-2010)|
+|The Health and Lifestyle Dashboard|This dashboard presents visualization of health and Lifestyle data. you can filter the charts based on Sleeping disorders. Thus providing valuable insights on how the behavior of individuals from different occupations is affected by sleeping disorders such as Sleep Apnea and Insomnia.|[Tableau Dashboard](https://public.tableau.com/app/profile/muhammad.abrar5972/viz/TheHealthandLifestyleDashboard/Dashboard1)|
 
 ***
 ## Acknowledgment
