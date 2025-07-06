@@ -61,6 +61,7 @@ Welcome to my data portfolio! Here, I document a summary of my data projects.
 
 | Project Link | Area of Analysis | Project Description | 
 |---|---|---|
+| 💻 [Advanced SQL](https://www.kaggle.com/learn/advanced-sql) | SQL queries for Complex Big Query datasets | Developed SQL queries for Google BigQuery datasets to support real-world data problems |
 | 💻 [Intro to SQL](https://www.kaggle.com/learn/intro-to-sql) | SQL queries for Complex Big Query datasets | Developed SQL queries for Google BigQuery datasets to support real-world data problems |
 
 ***
